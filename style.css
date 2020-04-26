@@ -297,7 +297,7 @@ p{
 ================================*/
 
 .bg-home {
-    background-image: url('../images/home/home-bg.jpg');
+    background-image: url('https://2.bp.blogspot.com/-03K70panmt8/XqTrRrz77SI/AAAAAAAAAFY/2F-osVCJWTceMpk4rtsBSuYnPEhVLHCzQCLcBGAsYHQ/s1600/20200426_095405_0000%2B%25281%2529.png');
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -305,7 +305,7 @@ p{
 }
 
 .bg-home-2 {
-    background-image: url('../images/home/home-bg-3.jpg');
+    background-image: url('https://2.bp.blogspot.com/-03K70panmt8/XqTrRrz77SI/AAAAAAAAAFY/2F-osVCJWTceMpk4rtsBSuYnPEhVLHCzQCLcBGAsYHQ/s1600/20200426_095405_0000%2B%25281%2529.png');
     background-size: cover;
     background-position: center center;
 }
@@ -719,7 +719,7 @@ p{
 }
 
 .bg-cta {
-    background-image: url('../images/home/home-bg-3.jpg');
+    background-image: url('https://2.bp.blogspot.com/-03K70panmt8/XqTrRrz77SI/AAAAAAAAAFY/2F-osVCJWTceMpk4rtsBSuYnPEhVLHCzQCLcBGAsYHQ/s1600/20200426_095405_0000%2B%25281%2529.png');
     background-size: cover;
     background-position: center center;
     position: relative;
