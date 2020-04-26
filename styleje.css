@@ -26,7 +26,7 @@
 body {
     font-family: 'Rubik', sans-serif;
     font-size: 14px;
-    color: #ffffff;
+    color: #525456;
 }
 
 h1,
@@ -297,7 +297,7 @@ p{
 ================================*/
 
 .bg-home {
-    background-image: url('https://1.bp.blogspot.com/-Jrsl2-P_Wc4/XqTviPS5SzI/AAAAAAAAAFk/YMkwbsyMjVM7ZxBKk_Qm8Qe_4oMkYYsUwCLcBGAsYHQ/s1600/20200426_101512_0000.png');
+    background-image: url('https://1.bp.blogspot.com/--5S5jyIRiYM/XqT226aAiQI/AAAAAAAAAFw/DyMrOSBaO-42hBZVH0ddoFbM6lGJxk55QCLcBGAsYHQ/s1600/20200426_104648_0001.png');
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -305,7 +305,7 @@ p{
 }
 
 .bg-home-2 {
-    background-image: url('https://1.bp.blogspot.com/-Jrsl2-P_Wc4/XqTviPS5SzI/AAAAAAAAAFk/YMkwbsyMjVM7ZxBKk_Qm8Qe_4oMkYYsUwCLcBGAsYHQ/s1600/20200426_101512_0000.png');
+    background-image: url('https://1.bp.blogspot.com/--5S5jyIRiYM/XqT226aAiQI/AAAAAAAAAFw/DyMrOSBaO-42hBZVH0ddoFbM6lGJxk55QCLcBGAsYHQ/s1600/20200426_104648_0001.png');
     background-size: cover;
     background-position: center center;
 }
@@ -459,7 +459,7 @@ p{
 /********DEMO 6**********/
 
 .bg-home-half {
-    background-image: url('https://1.bp.blogspot.com/-Jrsl2-P_Wc4/XqTviPS5SzI/AAAAAAAAAFk/YMkwbsyMjVM7ZxBKk_Qm8Qe_4oMkYYsUwCLcBGAsYHQ/s1600/20200426_101512_0000.png');
+    background-image: url('https://1.bp.blogspot.com/--5S5jyIRiYM/XqT226aAiQI/AAAAAAAAAFw/DyMrOSBaO-42hBZVH0ddoFbM6lGJxk55QCLcBGAsYHQ/s1600/20200426_104648_0001.png');
     background-size: cover;
     background-position: center center;
     padding: 250px 0px 200px;
@@ -719,7 +719,7 @@ p{
 }
 
 .bg-cta {
-    background-image: url('https://1.bp.blogspot.com/-Jrsl2-P_Wc4/XqTviPS5SzI/AAAAAAAAAFk/YMkwbsyMjVM7ZxBKk_Qm8Qe_4oMkYYsUwCLcBGAsYHQ/s1600/20200426_101512_0000.png');
+    background-image: url('https://1.bp.blogspot.com/--5S5jyIRiYM/XqT226aAiQI/AAAAAAAAAFw/DyMrOSBaO-42hBZVH0ddoFbM6lGJxk55QCLcBGAsYHQ/s1600/20200426_104648_0001.png');
     background-size: cover;
     background-position: center center;
     position: relative;
